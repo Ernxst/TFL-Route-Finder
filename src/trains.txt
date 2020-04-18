@@ -1,0 +1,772 @@
+Hammersmith & City [Hammersmith ⟷ Barking]
+Barking
+East Ham
+Upton Park
+Plaistow
+West Ham
+Bromley-by-Bow
+Bow Road
+Mile End
+Stepney Green
+Whitechapel
+Aldgate East
+Liverpool Street
+Moorgate
+Barbican
+Farringdon
+Kings Cross St. Pancras
+Euston Square
+Great Portland Street
+Baker Street
+Edgware Road
+Paddington
+Royal Oak
+Westbourne
+Ladbroke Grove
+Latimer Road
+Wood Lane
+Shepherd's BUsh
+Goldhawk Road
+Hammersmith
+//
+District [Wimbledon ⟷ Upminster]
+Upminster
+Upminster Bridge
+Hornchurch
+Elm Park
+Dagenham East
+Dagenham Heathway
+Becontree
+Upney
+Barking
+East Ham
+Upton Park
+Plaistow
+West Ham
+Bromley-by-Bow
+Bow Road
+Mile End
+Stepney Green
+Whitechapel
+Aldgate East
+Tower Hill
+Monument
+Canon Street
+Mansion House
+Blackfriars
+Temple
+Embankment
+Westminster
+St James' Park
+Victoria
+Sloane Square
+South Kensington
+Gloucester Road
+Earl's Court
+West Brompton
+Fulham Broadway
+Parsons Green
+Putney Bridge
+East Putney
+Southfields
+Wimbledon Park
+Wimbledon
+//
+District [Ealing Broadway ⟷ Upminster]
+Upminster
+Upminster Bridge
+Hornchurch
+Elm Park
+Dagenham East
+Dagenham Heathway
+Becontree
+Upney
+Barking
+East Ham
+Upton Park
+Plaistow
+West Ham
+Bromley-by-Bow
+Bow Road
+Mile End
+Stepney Green
+Whitechapel
+Aldgate East
+Tower Hill
+Monument
+Canon Street
+Mansion House
+Blackfriars
+Temple
+Embankment
+Westminster
+St James' Park
+Victoria
+Sloan Square
+South Kensington
+Gloucester Road
+Earl's Court
+West Kensington
+Barons Court
+Hammersmith
+Ravenscourt Park
+Stamford Brook
+Turnham Green
+Chiswick Park
+Acton Town
+Ealing Common
+Ealing Broadway
+//
+District [Richmond ⟷ Upminster]
+Upminster
+Upminster Bridge
+Hornchurch
+Elm Park
+Dagenham East
+Dagenham Heathway
+Becontree
+Upney
+Barking
+East Ham
+Upton Park
+Plaistow
+West Ham
+Bromley-by-Bow
+Bow Road
+Mile End
+Stepney Green
+Whitechapel
+Aldgate East
+Tower Hill
+Monument
+Canon Street
+Mansion House
+Blackfriars
+Temple
+Embankment
+Westminster
+St James' Park
+Victoria
+Sloan Square
+South Kensington
+Gloucester Road
+Earl's Court
+West Kensington
+Barons Court
+Hammersmith
+Ravenscourt Park
+Stamford Brook
+Turnham Green
+Gunnersbury
+Kew Gardens
+Richmond
+//
+Metropolitan [Uxbridge ⟷ Aldgate]
+Aldgate
+Liverpool Street
+Moorgate
+Barbican
+Farringdon
+King's Cross St. Pancras
+Euston Square
+Great Portland Street
+Baker Street
+Finchley Road
+Wembley Park
+Preston Park
+Northwick Park
+Harrow-on-the-Hill
+West Harrow
+Rayners Lane
+Eastcote
+Ruislip Manor
+Ruislip
+Ickenham
+Hillingdon
+Uxbridge
+//
+Metropolitan [Watford ⟷ Aldgate]
+Aldgate
+Liverpool Street
+Moorgate
+Barbican
+Farringdon
+King's Cross St. Pancras
+Euston Square
+Great Portland Street
+Baker Street
+Finchley Road
+Wembley Park
+Preston Park
+Northwick Park
+Harrow-on-the-Hill
+North Harrow
+Pinner
+Northwood Hills
+Northwood
+Moor Park
+Croxley
+Watford
+//
+Metropolitan [Amersham ⟷ Aldgate]
+Aldgate
+Liverpool Street
+Moorgate
+Barbican
+Farringdon
+King's Cross St. Pancras
+Euston Square
+Great Portland Street
+Baker Street
+Finchley Road
+Wembley Park
+Preston Park
+Northwick Park
+Harrow-on-the-Hill
+North Harrow
+Pinner
+Northwood Hills
+Northwood
+Moor Park
+Rickmansworth
+Chorleywood
+Chalfont & Latimer
+Amersham
+//
+Metropolitan [Chesham ⟷ Aldgate]
+Aldgate
+Liverpool Street
+Moorgate
+Barbican
+Farringdon
+King's Cross St. Pancras
+Euston Square
+Great Portland Street
+Baker Street
+Finchley Road
+Wembley Park
+Preston Park
+Northwick Park
+Harrow-on-the-Hill
+North Harrow
+Pinner
+Northwood Hills
+Northwood
+Moor Park
+Rickmansworth
+Chorleywood
+Chalfont & Latimer
+Chesham
+//
+Central [Ealing Broadway ⟷ Epping]
+Epping
+Theydon Bois
+Debden
+Loughton
+Buckhurst Hill
+Woodford
+South Woodford
+Snaresbrook
+Leytonstone
+Leyton
+Stratford
+Mile End
+Bethnal Green
+Liverpool Street
+Bank
+St. Paul's
+Chancery Lane
+Holborn
+Tottenham Court Road
+Oxford Circus
+Bond Street
+Marble Arch
+Lancaster Gate
+Queensway
+Notting Hill Gate
+Holland Park
+Shepherd's Bush
+White City
+East Acton
+North Acton
+West Acton
+Ealing Broadway
+//
+Central [Ealing Broadway ⟷ Hainault]
+Hainault
+Fairlop
+Barkingside
+Newbury Park
+Gants Hill
+Redbridge
+Wanstead
+Leytonstone
+Leyton
+Stratford
+Mile End
+Bethnal Green
+Liverpool Street
+Bank
+St. Paul's
+Chancery Lane
+Holborn
+Tottenham Court Road
+Oxford Circus
+Bond Street
+Marble Arch
+Lancaster Gate
+Queensway
+Notting Hill Gate
+Holland Park
+Shepherd's Bush
+White City
+East Acton
+North Acton
+West Acton
+Ealing Broadway
+//
+Central [West Ruislip ⟷ Epping]
+Epping
+Theydon Bois
+Debden
+Loughton
+Buckhurst Hill
+Woodford
+South Woodford
+Snaresbrook
+Leytonstone
+Leyton
+Stratford
+Mile End
+Bethnal Green
+Liverpool Street
+Bank
+St. Paul's
+Chancery Lane
+Holborn
+Tottenham Court Road
+Oxford Circus
+Bond Street
+Marble Arch
+Lancaster Gate
+Queensway
+Notting Hill Gate
+Holland Park
+Shepherd's Bush
+White City
+East Acton
+North Acton
+Hanger Lane
+Perivale
+Greenford
+Northolt
+South Ruislip
+Ruislip Gardens
+West Ruislip
+//
+Central [West Ruislip ⟷ Hainault via Woodford]
+Hainault
+Grange Hill
+Chigwell
+Roding Valley
+Woodford
+South Woodford
+Snaresbrook
+Leytonstone
+Leyton
+Stratford
+Mile End
+Bethnal Green
+Liverpool Street
+Bank
+St. Paul's
+Chancery Lane
+Holborn
+Tottenham Court Road
+Oxford Circus
+Bond Street
+Marble Arch
+Lancaster Gate
+Queensway
+Notting Hill Gate
+Holland Park
+Shepherd's Bush
+White City
+East Acton
+North Acton
+Hanger Lane
+Perivale
+Greenford
+Northolt
+South Ruislip
+Ruislip Gardens
+West Ruislip
+//
+Central [West Ruislip ⟷ Hainault via Newbury Park]
+Hainault
+Fairlop
+Barkingside
+Newbury Park
+Gants Hill
+Redbridge
+Wanstead
+Leytonstone
+Leyton
+Stratford
+Mile End
+Bethnal Green
+Liverpool Street
+Bank
+St. Paul's
+Chancery Lane
+Holborn
+Tottenham Court Road
+Oxford Circus
+Bond Street
+Marble Arch
+Lancaster Gate
+Queensway
+Notting Hill Gate
+Holland Park
+Shepherd's Bush
+White City
+East Acton
+North Acton
+Hanger Lane
+Perivale
+Greenford
+Northolt
+South Ruislip
+Ruislip Gardens
+West Ruislip
+//
+Jubilee [Stanmore ⟷ Stratford]
+Stratford
+West Ham
+Canning Town
+North Greenwich
+Canary Wharf
+Canada Water
+Bermondsey
+London Bridge
+Southwark
+Waterloo
+Westminster
+Green Park
+Bond Street
+Baker Street
+St John's Wood
+Swiss Cottage
+Finchley Road
+West Hampstead
+Kilburn
+Willedsen Green
+Dollis Hill
+Neasden
+Wembley Park
+Kingsbury
+Queensbury
+Canons Park
+Stanmore
+//
+Picadilly [Heathrow Terminal 4 ⟷ Cockfosters]
+Cockfosters
+Oakwood
+Southgate
+Arnos Grove
+Bounds Green
+Wood Green
+Turnpike Lane
+Manor House
+Finsbury Park
+Arsenal
+Holloway Road
+Caledonian Road
+King's Cross St. Pancras
+Russell Square
+Holborn
+Covent Garden
+Leicester Square
+Picadilly Circus
+Green Park
+Hyde Park
+Knightsbridge
+South Kensington
+Gloucester Road
+Earl's Court
+Barons Court
+Hammersmith
+Turnham Green
+Acton Town
+South Ealing
+Northfields
+Boston Manor
+Osterley
+Hounslow East
+Hounslow Central
+Hounslow West
+Hatton Cross
+Heathrow Terminals 2 & 3
+Heathrow Terminal 4
+//
+Picadilly [Heathrow Terminal 5 ⟷ Cockfosters]
+Cockfosters
+Oakwood
+Southgate
+Arnos Grove
+Bounds Green
+Wood Green
+Turnpike Lane
+Manor House
+Finsbury Park
+Arsenal
+Holloway Road
+Caledonian Road
+King's Cross St. Pancras
+Russell Square
+Holborn
+Covent Garden
+Leicester Square
+Picadilly Circus
+Green Park
+Hyde Park
+Knightsbridge
+South Kensington
+Gloucester Road
+Earl's Court
+Barons Court
+Hammersmith
+Turnham Green
+Acton Town
+South Ealing
+Northfields
+Boston Manor
+Osterley
+Hounslow East
+Hounslow Central
+Hounslow West
+Hatton Cross
+Heathrow Terminals 2 & 3
+Heathrow Terminal 5
+//
+Picadilly [Uxbridge ⟷ Cockfosters]
+Cockfosters
+Oakwood
+Southgate
+Arnos Grove
+Bounds Green
+Wood Green
+Turnpike Lane
+Manor House
+Finsbury Park
+Arsenal
+Holloway Road
+Caledonian Road
+King's Cross St. Pancras
+Russell Square
+Holborn
+Covent Garden
+Leicester Square
+Picadilly Circus
+Green Park
+Hyde Park
+Knightsbridge
+South Kensington
+Gloucester Road
+Earl's Court
+Barons Court
+Hammersmith
+Turnham Green
+Acton Town
+North Ealing
+Park Royal
+Alpertron
+Sudbury Town
+Sudbury Hill
+South Harrow
+Rayners Lane
+Eastcote
+Ruislip Manor
+Ruislip
+Ickenham
+Hillingdon
+Uxbridge
+//
+DLR [Tower Gateway ⟷ Beckton]
+Beckton
+Gallions Reach
+Cyprus
+Beckton Park
+Royal Albert
+Prince Regent
+Custom House
+Royal Victoria
+Canning Town
+East India
+Blackwall
+Poplar
+Westferry
+Limehouse
+Shadwell
+Tower Gateway
+//
+Victoria [Brixton ⟷ Walthamstow Central]
+Walthamstow Central
+Blackhorse Road
+Tottenham Hale
+Seven Sistsers
+Finsbury Park
+Highbury & Islington
+King's Cross St.Pancras
+Euston
+Warren Street
+Oxford Circus
+Green Park
+Victoria
+Pimlico
+Vauxhall
+Stockwell
+Brixton
+//
+London Overground [Gospel Oak ⟷ Barking]
+Barking
+Woodgrange Park
+Wanstead Park
+Leytonstone High Road
+Leyton Midland
+Walhamstow Queens Road
+Blackhorse Road
+South Tottenham
+Harringay Green Lanes
+Crouch Hill
+Upper Holloway
+Gospel Oak
+//
+Tfl Rail [Shenfield ⟷ London Liverpool Street]
+London Liverpool Street
+Whitechapel
+Stratford
+Maryland
+Forest Gate
+Manor Park
+Ilford
+Seven Kings
+Goodmayes
+Chadwell Heath
+Romford
+Gidea Park
+Harold Wood
+Brentwood
+Shenfield
+//
+Tfl Rail [London Paddington ⟷ Heathrow Terminal 4]
+Heathrow Terminal 4
+Heathrow Terminals 2 & 3
+Hayes & Harlington
+Southall
+Hanwell
+West Ealing
+Ealing Broadway
+Acton Main Line
+London Paddington
+//
+Northern [Morden ⟷ Edgware via Bank]
+Edgware
+Burnt Oak
+Colindale
+Hendon Central
+Brent Cross
+Golders Green
+Hampstead
+Belsize Park
+Chalk Farm
+Camden Town
+Euston
+King's Cross St. Pancras
+Angel
+Old Street
+Moorgate
+Bank
+London Bridge
+Borough
+Elephant & Castle
+Kennington
+Oval
+Stockwell
+Clapham North
+Clapham Common
+Clapham South
+Balham
+Tooting Bec
+Tooting Broadway
+Colliers Wood
+South Wimbledon
+Morden
+//
+Circle [Hammersmith ⟷ Edgware Road]
+Paddington
+Bayswater
+Notting Hill Gate
+High Street Kensington
+Gloucester Road
+South Kensington
+Sloan Square
+Victoria
+St. James' Park
+Westminster
+Embankment
+Temple Undergound
+Blackfriars
+Mansion House
+Canon Street
+Monument
+Tower Hill
+Aldgate
+Liverpool Street
+Moorgate
+Barbican
+Farringdon
+King's Cross St. Pancras
+Euston Square
+Great Portland Street
+Baker Street
+Edgware Road
+Paddington
+Royal Oak
+Westbourne Park
+Ladbroke Grove
+Latimer Road
+Wood Lane
+Shepherd's Bush Market
+Goldhawk Road
+Hammersmith
+//
+Bakerloo [Elephant & Castle ⟷ Harrow & Wealdstone]
+Harrow & Wealdstone
+Kenton
+South Kenton
+North Wembley
+Wembley Central
+Stonebridge
+Harlesden
+Willesden Junction
+Kensal Green
+Queen's Park
+Kilburn Park
+Maida Vale
+Warwick Avenue
+Paddington
+Edgware Road
+Marylebone
+Baker Street
+Regent's Park
+Oxford Circus
+Picadilly Circus
+Charing Cross
+Embankment
+Waterloo
+Lambeth North
+Elephant & Castle
+//Waterloo & City [Waterloo ⟷ Bank]
+Bank
+Waterloo
