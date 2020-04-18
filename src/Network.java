@@ -9,7 +9,7 @@ public class Network {
     }
 
     private ArrayList<String> openFile() {
-        FileInput in = new FileInput("/home/ernest/Documents/UCL/Java Programming/Week2/src/trains.txt");
+        FileInput in = new FileInput("src/trains.txt");
         ArrayList<String> data = new ArrayList<>();
         while (in.hasNextLine()) {
             data.add(in.nextLine());
